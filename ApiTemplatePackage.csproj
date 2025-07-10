@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <PackageId>ApiTemplatePackage</PackageId>
+    <PackageId>CodeKop.ApiTemplate</PackageId>
     <Version>1.0.0</Version>
     <Authors>George Kopadze</Authors>
     <Company>CodeKop</Company>
