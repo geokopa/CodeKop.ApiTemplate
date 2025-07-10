@@ -1,0 +1,22 @@
+{
+    "$schema": "https://json.schemastore.org/template",
+    "author": "George Kopadze",
+    "defaultName": "ApiTemplateProject",
+    "repository": {
+        "type": "github",
+        "url": "https://github.com/geokopa/CodeKop.ApiTemplate"
+    },
+    "projectUrl": "https://github.com/geokopa/CodeKop.ApiTemplate",
+    "releaseNotes": "Initial release of the API Template.",
+    "classifications": [ "Web", "API" ],
+    "identity": "CodeKop.Api.Template",
+    "name": "API Template",
+    "shortName": "kop-api",
+    "sourceName": "ApiTemplate",
+    "description": "A custom template for creating a web API project with specific configurations.",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "preferNameDirectory": true
+}
